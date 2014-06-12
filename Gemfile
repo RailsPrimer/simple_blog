@@ -42,3 +42,6 @@ group :development, :test do
 	gem 'capybara'
 	gem 'factory_girl_rails'
 end
+
+gem 'haml-rails'
+gem 'html2haml', group: :development
